@@ -95,9 +95,9 @@
      Student st=new Student();
          st.handIn();
 	  
-### 六、系统运行截图
+### 五、系统运行截图
 ![images](https://github.com/ydqgithub/HomeWork/blob/main/images/ydq.jpg)
-### 七、实验感想
+### 六、实验感想
 1.在这个实验中我练习使用了缓冲流、字节流、字符流。<br/>
 2.写入字符流时int型特殊，需要强制转化成字符型。<br/>
 3.练习使用了异常捕获eg：类名之后直接throws IOException，以及Scanner类和try...catch异常捕获。<br/>
