@@ -74,8 +74,6 @@
     System.out.println("姓名：");
     fw.write("姓名："+sc.next()+"\r\n");
      
-> * 
-     
 7.将作业名写到控制台中，仍然使用Scanner类实现。<br/>
 
      System.out.println("请输入文件名：");
@@ -104,6 +102,6 @@
 2.写入字符流时int型特殊，需要强制转化成字符型。<br/>
 3.练习使用了异常捕获eg：类名之后直接throws IOException，以及Scanner类和try...catch异常捕获。<br/>
 4.练习使用了条件语句if...else、循环语句while、for。<br/>
-5。学习使用了类的实例化。<br/>
+5.学习使用了类的实例化。<br/>
 
 
